@@ -4,4 +4,4 @@ Built with [wintersmith](https://github.com/jnordberg/wintersmith)
 
 # Editing
 
-Edit content as you like in `/contents`, then run `make deploy`. The site will be built and pushed to GitHub Pages for serving.
+Edit content as you like in `/src/contents`, then run `make deploy`. The site will be built and served at nuts.github.io
