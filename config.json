@@ -1,14 +1,16 @@
 {
+  "contents": "./src/contents",
+  "templates": "./src/templates",
+  "plugins": [
+    "./src/plugins/paginator.coffee"
+  ],
+  "output": "./",
   "locals": {
     "url": "http://localhost:8080",
     "name": "The Nuts.com Code Blog",
     "owner": "The Technical Nuts",
-    "description": "More than just nuts.",
-    "output": "../"
+    "description": "More than just nuts."
   },
-  "plugins": [
-    "./plugins/paginator.coffee"
-  ],
   "require": {
     "moment": "moment",
     "_": "underscore",
