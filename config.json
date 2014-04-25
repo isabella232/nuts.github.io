@@ -6,7 +6,7 @@
   ],
   "output": "./",
   "locals": {
-    "url": "http://localhost:8080",
+    "url": "http://nuts.io",
     "name": "The Nuts.com Code Blog",
     "owner": "The Technical Nuts",
     "description": "More than just nuts."
